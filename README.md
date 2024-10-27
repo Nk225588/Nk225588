@@ -1,6 +1,6 @@
 
   
-    <h1> Congratulations mam  🩷 </h1>
+<body>   <h1>congrats samrdhi maam 🩷</h1> </body>
   <h6> Miss Samridhi Sharma- Queen Of Biology   &#9829; &#10024;  </h6>
   <ul>
    <li>S- sweet 😆</li>
@@ -16,3 +16,7 @@
 y, Normally Naturally, Finally but truly Uhh are the best! 🫶<br>
 Don't know how to tell you that how much we love you! ❤️‍🩹
 
+
+      <img src="https://assets.onecompiler.app/42ryuv2wx/42wbgc3j3/1000000294.jpg" alt="link" />
+
+       <h6>with ❤️‍🔥 NAITIKXYASHIKA</h6>
